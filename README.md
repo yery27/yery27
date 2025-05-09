@@ -4,7 +4,7 @@
 - 👀 Me interesan la programación, la ciberseguridad y los proyectos creativos.
 - 🌱 Actualmente estoy aprendiendo sobre redes, servidores y desarrollo web.
 - 💞️ Me gustaría colaborar en proyectos open source y educativos.
-- 📫 Puedes contactarme por GitHub o [tu correo aquí].
+- 📫 Puedes contactarme por GitHub.
 - ⚡ Dato curioso: A veces programo mientras escucho música electrónica 🎧
 
 ---
