@@ -8,6 +8,9 @@
 
 ---
 
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
 <!---
 yery27/yery27 is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 You can click the "Preview" link to see how it looks.
