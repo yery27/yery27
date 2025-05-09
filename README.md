@@ -5,7 +5,6 @@
 - 🌱 Actualmente estoy aprendiendo sobre redes, servidores y desarrollo web.
 - 💞️ Me gustaría colaborar en proyectos open source y educativos.
 - 📫 Puedes contactarme por GitHub.
-- ⚡ Dato curioso: A veces programo mientras escucho música electrónica 🎧
 
 ---
 
