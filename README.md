@@ -1,14 +1,14 @@
-# 👋 ¡Hola! Soy @yery27
+# 👋 Hi there! I'm @yery27
 
-## 🚀 Sobre mí
-- 👀 Me interesan la programación, la ciberseguridad y los proyectos creativos.
-- 🌱 Actualmente estoy aprendiendo sobre redes, servidores y desarrollo web.
-- 💞️ Me gustaría colaborar en proyectos open source y educativos.
-- 📫 Puedes contactarme por GitHub.
+## 🚀 About Me
+- 👀 I'm interested in programming, cybersecurity, and creative projects.
+- 🌱 I'm currently learning about networking, servers, and web development.
+- 💞️ I'm looking to collaborate on open source and educational projects.
+- 📫 You can reach me via GitHub.
 
 ---
 
 <!---
-yery27/yery27 es un repositorio ✨ especial ✨ porque su archivo `README.md` aparece en tu perfil de GitHub.
-Puedes hacer clic en el enlace "Preview" para ver cómo se ve.
+yery27/yery27 is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
+You can click the "Preview" link to see how it looks.
 --->
