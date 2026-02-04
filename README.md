@@ -20,26 +20,26 @@
 
 ## 🎰 Featured Project: Casino Clicker & Tycoon
 
-> *¿Tienes suerte? Un juego incremental donde la estrategia se encuentra con el azar.*
+> *Feeling lucky? An incremental game where strategy meets chance.*
 
 <div align="center">
-  <img src="https://via.placeholder.com/600x300.png?text=Preview+del+Casino+Clicker" alt="Casino Clicker Preview" width="100%" style="border-radius: 10px; box-shadow: 0px 0px 20px rgba(0,0,0,0.5);">
+  <img src="https://via.placeholder.com/600x300.png?text=REPLACE+WITH+YOUR+GAME+SCREENSHOT" alt="Casino Clicker Preview" width="100%" style="border-radius: 10px; box-shadow: 0px 0px 20px rgba(0,0,0,0.5);">
 </div>
 
 <br>
 
-**🎯 De qué trata:**
-Un proyecto divertido que combina la mecánica adictiva de los "Clickers" con minijuegos de casino. Gestiona tu economía, apuesta tus ganancias y desbloquea mejoras.
+**🎯 What is it about?**
+A fun project that combines the addictive mechanics of "Clickers" with casino minigames. Manage your economy, gamble your earnings, and unlock upgrades.
 
-**🛠️ Tech Stack del Proyecto:**
+**🛠️ Project Tech Stack:**
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-[<img src="https://img.shields.io/badge/Jugar_Demo-FF0000?style=for-the-badge&logo=google-chrome&logoColor=white" />](#)
-[<img src="https://img.shields.io/badge/Ver_Código-181717?style=for-the-badge&logo=github&logoColor=white" />](#)
+[<img src="https://img.shields.io/badge/Play_Demo-FF0000?style=for-the-badge&logo=google-chrome&logoColor=white" />](#)
+[<img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />](#)
 
 ---
 
