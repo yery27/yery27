@@ -18,12 +18,41 @@
 
 ---
 
-## 🎰 Featured Project: Casino Clicker & Tycoon
+## 📂 Featured Repositories
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" style="border: 1px solid #36BCF7; border-radius: 10px;">
+      <br>
+      <kbd>🎰 𝖢𝖺𝗌𝗂𝗇𝗈 𝖢𝗅𝗂𝖼𝗄𝖾𝗋 & 𝖳𝗒𝖼𝗈𝗈𝗇</kbd>
+      <p><i>"Strategy meets chance in this unique incremental game."</i></p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <br><br>
+      <a href="https://github.com/yery27/entangasix-clicker"><b>View Repository →</b></a>
+      <br><br>
+    </td>
+    <td width="50%" align="center" style="border: 1px solid #36BCF7; border-radius: 10px;">
+      <br>
+      <kbd>🌐 𝖬𝗈𝖽𝖾𝗋𝗇 𝖧𝖾𝖺𝖽𝖾𝗋 𝖶𝖾𝖻</kbd>
+      <p><i>"Sleek and responsive header design for web projects."</i></p>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <br><br>
+      <a href="https://github.com/yery27/header_web"><b>View Repository →</b></a>
+      <br><br>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🎰 Hero Project: Casino Clicker & Tycoon
 
 > *Feeling lucky? An incremental game where strategy meets chance.*
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yery27/yery27/main/assets/casino-banner.png" alt="Casino Clicker Preview" width="100%" style="border-radius: 10px; box-shadow: 0px 0px 20px rgba(0,0,0,0.5);">
+  <img src="https://raw.githubusercontent.com/yery27/yery27/main/assets/casino-banner.png" alt="Casino Clicker Preview" width="100%" style="border-radius: 10px;">
 </div>
 
 <br>
@@ -62,20 +91,16 @@ A fun project that combines the addictive mechanics of "Clickers" with casino mi
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yery27&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yery27&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="languages graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yery27&theme=tokyonight&hide_border=true&bg_color=00000000" alt="streak stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yery27&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="streak stats" width="92%" />
 </div>
 
 ---
 
 <div align="center">
-  <p>Visitor count</p>
-  <img src="https://komarev.com/ghpvc/?username=yery27&label=Profile%20Views&color=blue&style=flat" alt="yery27" />
+  <p><b>Visitor count</b></p>
+  <img src="https://komarev.com/ghpvc/?username=yery27&label=Profile%20Views&color=36BCF7&style=flat-square" alt="yery27" />
 </div>
