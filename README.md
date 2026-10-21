@@ -80,9 +80,8 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yery27&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="streak" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api?username=yery27&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&rank_icon=github" alt="stats" width="49%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yery27&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true&custom_title=Actividad" alt="activity" width="98%" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=yery27&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="trophies" width="98%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yery27&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="langs" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yery27&theme=tokyonight" alt="profile" width="49%" />
 
 </div>
 
