@@ -23,7 +23,7 @@
 - 🎧 **Vibecoder:** programo a base de ideas, prompts e intuición. Describo lo que quiero, la IA lo escribe y yo lo pulo hasta que mole.
 - 🛡️ **Me flipa:** la ciberseguridad, el hacking ético y entender cómo se rompen (y se arreglan) las cosas.
 - 🖥️ **Aprendiendo:** redes, protocolos y administración de servidores.
-- 📍 **Desde:** Catalunya · 🌐 [gameshubs.net](https://gameshubs.net)
+- 📍 **Desde:** Catalunya · 🌐 [fuelapp.es](https://fuelapp.es)
 - 📫 **Contacto:** por GitHub o email.
 
 ---
@@ -32,15 +32,8 @@
 
 <table width="100%">
   <tr>
-    <td width="33%" align="center">
-      <h3>🔮 Queen Almi Tarot</h3>
-      <sub>Web de tarot hecha con mucho vibe</sub>
-      <br><br>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      <br><br>
-      <a href="https://github.com/yery27/queenalmicatarot"><b>Ver repo →</b></a>
-    </td>
-    <td width="33%" align="center">
+    <td width="50%" align="center">
+      <img src="https://opengraph.githubassets.com/1/yery27/header_web" alt="header_web" width="95%" />
       <h3>🌐 Header Web</h3>
       <sub>Cabecera moderna y responsive</sub>
       <br><br>
@@ -49,7 +42,8 @@
       <br><br>
       <a href="https://github.com/yery27/header_web"><b>Ver repo →</b></a>
     </td>
-    <td width="33%" align="center">
+    <td width="50%" align="center">
+      <img src="https://opengraph.githubassets.com/1/yery27/mis-skills" alt="mis-skills" width="95%" />
       <h3>🧠 Mis Skills</h3>
       <sub>Mi colección de skills para IA</sub>
       <br><br>
