@@ -33,7 +33,7 @@
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://opengraph.githubassets.com/1/yery27/header_web" alt="header_web" width="95%" />
+      <img src="./assets/header-web.png" alt="header_web" width="95%" />
       <h3>🌐 Header Web</h3>
       <sub>Cabecera moderna y responsive</sub>
       <br><br>
@@ -43,7 +43,7 @@
       <a href="https://github.com/yery27/header_web"><b>Ver repo →</b></a>
     </td>
     <td width="50%" align="center">
-      <img src="https://opengraph.githubassets.com/1/yery27/mis-skills" alt="mis-skills" width="95%" />
+      <img src="./assets/mis-skills.svg" alt="mis-skills" width="95%" />
       <h3>🧠 Mis Skills</h3>
       <sub>Mi colección de skills para IA</sub>
       <br><br>
