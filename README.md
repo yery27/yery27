@@ -32,17 +32,7 @@
 
 <table width="100%">
   <tr>
-    <td width="50%" align="center">
-      <img src="./assets/header-web.png" alt="header_web" width="95%" />
-      <h3>🌐 Header Web</h3>
-      <sub>Cabecera moderna y responsive</sub>
-      <br><br>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-      <br><br>
-      <a href="https://github.com/yery27/header_web"><b>Ver repo →</b></a>
-    </td>
-    <td width="50%" align="center">
+    <td align="center">
       <img src="./assets/mis-skills.svg" alt="mis-skills" width="95%" />
       <h3>🧠 Mis Skills</h3>
       <sub>Mi colección de skills para IA</sub>
