@@ -1,34 +1,63 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Yery27&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Vibecoder%20%C2%B7%20Web%20%C2%B7%20Ciberseguridad&descAlignY=60&descSize=20" alt="header" width="100%" />
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hola!+%F0%9F%91%8B+Soy+Yery,+vibecoder;Le+pido+cosas+a+la+IA+y+sale+magia+%E2%9C%A8;Webs+%C2%B7+Ciberseguridad+%C2%B7+Servidores;Si+compila,+se+sube+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="./assets/hero.svg" alt="Yery27" width="100%" />
 
 <br>
 
-<img src="https://img.shields.io/badge/vibe-coding-A855F7?style=for-the-badge&logo=claude&logoColor=white" />
-<img src="https://img.shields.io/badge/ciberseguridad-curioso-00FF88?style=for-the-badge&logo=hackthebox&logoColor=black" />
-<img src="https://img.shields.io/badge/Catalunya-📍-F472B6?style=for-the-badge" />
-
-<br><br>
-
-<img src="./assets/vibe-terminal.svg" alt="vibecoding terminal" width="80%" />
+<img src="https://img.shields.io/badge/FuelApp-fuelapp.es-E10600?style=for-the-badge&logo=googlemaps&logoColor=white" />
+<img src="https://img.shields.io/badge/Ciberseguridad-0D1117?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
+<img src="https://img.shields.io/badge/Catalunya-📍-FF8A3D?style=for-the-badge" />
 
 </div>
 
 ---
 
-## 🌈 Sobre mí
+## 👋 Sobre mí
 
-- 🎧 **Vibecoder:** programo a base de ideas, prompts e intuición. Describo lo que quiero, la IA lo escribe y yo lo pulo hasta que mole.
-- 🛡️ **Me flipa:** la ciberseguridad, el hacking ético y entender cómo se rompen (y se arreglan) las cosas.
-- 🖥️ **Aprendiendo:** redes, protocolos y administración de servidores.
-- 📍 **Desde:** Catalunya · 🌐 [fuelapp.es](https://fuelapp.es)
-- 📫 **Contacto:** por GitHub o email.
+- 🛡️ Ciberseguridad, hacking ético y entender cómo se rompen (y se arreglan) las cosas
+- 🖥️ Redes, protocolos y administración de servidores
+- 🌐 Desarrollo web con PHP, JavaScript y Python
+- 📍 Catalunya
 
 ---
 
-## 🚀 Proyectos
+## ⛽ FuelApp
+
+<div align="center">
+
+<a href="https://fuelapp.es"><img src="./assets/fuelapp.svg" alt="FuelApp" width="100%" /></a>
+
+</div>
+
+**[fuelapp.es](https://fuelapp.es)** compara el precio de la gasolina y el diésel en más de 11.000 gasolineras de España con datos oficiales del Ministerio (MITECO), y además sirve para llevar los gastos de tu coche.
+
+| | |
+|---|---|
+| 🗺️ **Gasolineras** | Precios por provincia, localidad y mapa, actualizados cada día |
+| ⛽ **Repostajes y gastos** | Consumo, coste por km y gastos extra por vehículo |
+| 🔧 **Mantenimiento y documentos** | Revisiones y documentos protegidos por cuenta |
+| 🚗 **Garaje** | Varios vehículos, con catálogo de marcas, modelos y motores autocompletado |
+| 📊 **Estadísticas** | TCO, rutas y calculadora de costes |
+| 🔒 **Privacidad** | Datos aislados por cuenta; lo público lo eliges tú |
+
+<div align="center">
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
+<br>
+
+<a href="https://fuelapp.es"><img src="https://img.shields.io/badge/Abrir_FuelApp_→-E10600?style=for-the-badge" /></a>
+
+</div>
+
+---
+
+## 🚀 Más proyectos
 
 <table width="100%">
   <tr>
@@ -46,18 +75,11 @@
 
 ---
 
-## 🧰 Mi arsenal
+## 🧰 Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,linux,bash,git,vscode&theme=dark" alt="skills" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" />
-<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
-<img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,mysql,tailwind,docker,linux,bash,git&theme=dark" alt="stack" />
 
 </div>
 
@@ -67,22 +89,16 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yery27&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="streak" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api?username=yery27&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&rank_icon=github" alt="stats" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yery27&theme=dark&hide_border=true&background=0D1117&ring=E10600&fire=FF8A3D&currStreakLabel=FF8A3D" alt="streak" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=yery27&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF2D2D&icon_color=FF8A3D&text_color=c9d1d9&ring_color=E10600" alt="stats" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yery27&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="langs" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yery27&theme=tokyonight" alt="profile" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yery27&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF2D2D&text_color=c9d1d9" alt="langs" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yery27&theme=github_dark" alt="profile" width="49%" />
 
-</div>
-
----
-
-<div align="center">
+<br>
 
 <img src="https://raw.githubusercontent.com/yery27/yery27/output/github-contribution-grid-snake-dark.svg" alt="snake" width="100%" />
 
-<img src="https://komarev.com/ghpvc/?username=yery27&label=Visitas&color=A855F7&style=for-the-badge" alt="views" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" alt="footer" width="100%" />
+<img src="https://komarev.com/ghpvc/?username=yery27&label=Visitas&color=E10600&style=for-the-badge" alt="views" />
 
 </div>
